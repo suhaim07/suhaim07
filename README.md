@@ -66,17 +66,10 @@ Hey 👋, I'm Suhaim Abdul Samad
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaim07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaim07&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>🔥 GitHub Streak
+  <img src="https://github-stats-extended.vercel.app/api?username=suhaim07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suhaim07&theme=tokyonight&hide_border=true" width="70%" />
-</p>📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhaim07&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=suhaim07&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
