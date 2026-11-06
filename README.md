@@ -1,6 +1,6 @@
 Hey 👋, I'm Suhaim Abdul Samad
 
-🎓 AIML Engineering Student | Aspiring Developer | Tech Enthusiast
+🎓 AIML Engineering Student | Aspiring Full stack developer | Machine Learning Enthusiast 
 
 ---
 
