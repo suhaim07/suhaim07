@@ -1,16 +1,30 @@
-## Hi there 👋
+Hey 👋, I'm Suhaim Abdul Samad
 
-<!--
-**suhaim07/suhaim07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Engineering Student | Aspiring Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+- 🎓 B.E. Artificial Intelligence and Machine Learning student.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 💻 Exploring Python, Java, C
+- 🌐 Interested in Full-Stack Development and Automation.
+- 🚀 Building projects and learning new technologies.
+- 🌱 Improving my programming and problem-solving skills every day.
+
+---
+
+🛠️ Technologies & Tools
+
+- Languages: C, Java, Python
+- Interests: AI, ML, Web Development
+- Tools: Git, GitHub, VS Code
+
+---
+
+🚀 Featured Projects
+0
+---
+
+💡 "Keep Learning. Keep Building. Keep Growing."
