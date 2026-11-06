@@ -25,6 +25,25 @@ Hey 👋, I'm Suhaim Abdul Samad
 
 🚀 Featured Projects
 0
+
 ---
 
-💡 "Keep Learning. Keep Building. Keep Growing."
+## 🛠️ Languages & Tools
+
+### Programming Languages
+![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js)
+
+### Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,vite)
+
+### Backend
+![My Skills](https://skillicons.dev/icons?i=nodejs,express)
+
+### Database
+![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase)
+
+### DevOps & Cloud
+![My Skills](https://skillicons.dev/icons?i=docker,aws)
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)
