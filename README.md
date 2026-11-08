@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Developer%20mode%20on.jpg" alt="Pixel art laptop displaying Hello World" width="720">
+</p>
 Hey , I'm Suhaim Abdul Samad
 
 AIML Engineering Student | Aspiring Full stack developer | Machine Learning Enthusiast 
@@ -27,7 +30,7 @@ Featured Projects
 
 <div align="center"><table>
 <tr>
-<td width="50%" valign="top">--- Library Management System
+<td width="50%" valign="top">Library Management System
 
 A software application designed to manage library operations, including book records and library resources.
 
@@ -35,7 +38,7 @@ Focus: Software Development
 
 
 </td>
-<td width="50%" valign="top">--- Fishbid - Online Fish Market
+<td width="50%" valign="top">Fishbid - Online Fish Market
 
 An online marketplace designed to connect fish sellers and buyers through a digital platform.
 
@@ -54,7 +57,7 @@ Focus: Artificial Intelligence
 "View Repository" (https://github.com/suhaim07/AI-health-and-outbreak-bot-)
 
 </td>
-<td width="50%" valign="top">---AI-Powered Skill Matching Portal
+<td width="50%" valign="top">AI-Powered Skill Matching Portal
 
 A platform connecting workers and employers through skill-based job matching, location, availability and recommendations.
 
