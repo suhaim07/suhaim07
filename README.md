@@ -121,7 +121,7 @@ Technologies: React, Python, FastAPI, PostgreSQL (proposed stack).
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=suhaim07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suhaim07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Live GitHub stats" />
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=suhaim07&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaim07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Live top languages" />
 </p>
