@@ -1,64 +1,75 @@
-Suhaim Abdul Samad
+Hey 👋, I'm Suhaim Abdul Samad
 
-<div align="center"><img src="https://raw.githubusercontent.com/suhaim07/suhaim07/main/coding-room.gif" width="100%" alt="Developer coding in a futuristic room"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AIML+Engineering+Student;Aspiring+Full+Stack+Developer;Machine+Learning+Enthusiast;Python+%7C+Java+%7C+C+Developer" alt="Typing introduction"></div>---
+AIML Engineering Student | Aspiring Full stack developer | Machine Learning Enthusiast 
+
+---
 
 About Me
 
 - B.E. Artificial Intelligence and Machine Learning student.
-- Exploring Python, Java, C and C++.
 - Interested in Artificial Intelligence and Machine Learning.
-- Learning Full Stack Development.
-- Building software projects and improving programming logic.
-- Interested in automation and AI-powered applications.
+- Exploring Python, Java, C
+- Interested in Full-Stack Development and Automation.
+- Building projects and learning new technologies.
+- Improving my programming and problem-solving skills every day.
 
 ---
 
-Technical Skills
+🛠️ Technologies & Tools
 
-Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-</p>Tools and Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Automation
-- Problem Solving
+- Languages: C, Java, Python
+- Interests: AI, ML, Web Development
+- Tools: Git, GitHub, VS Code
 
 ---
 
-Featured Project
-
-PulseGuard AI
-
-An AI-based software project currently under development.
-
-"View my repositories" (https://github.com/suhaim07?tab=repositories)
+Featured Projects
+0
 
 ---
 
-GitHub Statistics
+## 🛠️ Languages & Tools
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=suhaim07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaim07&layout=compact&theme=tokyonight&hide_border=true" /><img width="70%" src="https://streak-stats.demolab.com?user=suhaim07&theme=tokyonight&hide_border=true" /></div>---
+### Programming Languages
+![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js)
 
-Current Learning Goals
+### Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,vite)
 
-- Strengthening Python logic and problem-solving.
-- Learning Machine Learning fundamentals.
-- Improving Java and C++ programming.
-- Building real-world software projects.
-- Exploring AI-powered applications.
+### Backend
+![My Skills](https://skillicons.dev/icons?i=nodejs,express)
+
+### Database
+![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase)
+
+### DevOps & Cloud
+![My Skills](https://skillicons.dev/icons?i=docker,aws)
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)
 
 ---
 
-<div align="center">Code. Learn. Build. Repeat.
+🔗 Connect With Me
 
-Thanks for visiting my GitHub profile.
+<p align="center">
+  <a href="https://github.com/suhaim07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/suhaim-abdul-samad-218251379/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:suhaimkhalifa07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-</div>
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=suhaim07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=suhaim07&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
