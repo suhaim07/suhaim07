@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Developer%20mode%20on.jpg" alt="Pixel art laptop displaying Hello World" width="720">
+  <img src="https://in.pinterest.com/pin/113012271895040324/" alt="Pixel art laptop displaying Hello World" width="720">
 </p>
 Hey , I'm Suhaim Abdul Samad
 
