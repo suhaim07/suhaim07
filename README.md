@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../ChatGPT%20Image%20Nov%208,%202026,%2010_12_57%20PM.gif" alt="Profile GIF" width="900" />
+  <img src="assets/profile.gif" alt="Profile GIF" width="900" />
 </p>
 
 Hey , I'm Suhaim Abdul Samad
