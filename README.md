@@ -1,17 +1,17 @@
 Hey 👋, I'm Suhaim Abdul Samad
 
-🎓 AIML Engineering Student | Aspiring Full stack developer | Machine Learning Enthusiast 
+AIML Engineering Student | Aspiring Full stack developer | Machine Learning Enthusiast 
 
 ---
 
-👨‍💻 About Me
+About Me
 
-- 🎓 B.E. Artificial Intelligence and Machine Learning student.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 💻 Exploring Python, Java, C
-- 🌐 Interested in Full-Stack Development and Automation.
-- 🚀 Building projects and learning new technologies.
-- 🌱 Improving my programming and problem-solving skills every day.
+- B.E. Artificial Intelligence and Machine Learning student.
+- Interested in Artificial Intelligence and Machine Learning.
+- Exploring Python, Java, C
+- Interested in Full-Stack Development and Automation.
+- Building projects and learning new technologies.
+- Improving my programming and problem-solving skills every day.
 
 ---
 
@@ -23,7 +23,7 @@ Hey 👋, I'm Suhaim Abdul Samad
 
 ---
 
-🚀 Featured Projects
+Featured Projects
 0
 
 ---
