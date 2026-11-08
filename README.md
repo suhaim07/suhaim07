@@ -24,7 +24,53 @@ About Me
 ---
 
 Featured Projects
-0
+
+<div align="center"><table>
+<tr>
+<td width="50%" valign="top">Library Management System
+
+A software application designed to manage library operations, including book records and library resources.
+
+Focus: Software Development
+
+Technologies: Add your actual tech stack here.
+
+</td>
+<td width="50%" valign="top">Fishbid - Online Fish Market
+
+An online marketplace designed to connect fish sellers and buyers through a digital platform.
+
+Focus: Full Stack Development
+
+Technologies: Add your actual tech stack here.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">AI Health and Outbreak Chatbot
+
+An AI-powered community health and outbreak alert bot designed to provide health-related information.
+
+Focus: Artificial Intelligence
+
+"View Repository" (https://github.com/suhaim07/AI-health-and-outbreak-bot-)
+
+</td>
+<td width="50%" valign="top">AI-Powered Skill Matching Portal
+
+A platform connecting workers and employers through skill-based job matching, location, availability and recommendations.
+
+Focus: AI and Web Development
+
+Technologies: React, Python, FastAPI, PostgreSQL (proposed stack).
+
+</td>
+</tr>
+</table></div>---
+
+<div align="center">Building projects. Solving problems. Learning continuously.
+
+</div>
 
 ---
 
