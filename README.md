@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://in.pinterest.com/pin/113012271895040324/" alt="Pixel art laptop displaying Hello World" width="720">
+  <img src="../ChatGPT%20Image%20Nov%208,%202026,%2010_12_57%20PM.gif" alt="Profile GIF" width="900" />
 </p>
+
 Hey , I'm Suhaim Abdul Samad
 
-AIML Engineering Student | Aspiring Full stack developer | Machine Learning Enthusiast 
+AIML Engineering Student | Aspiring Full stack developer | Machine Learning Enthusiast
 
 ---
 
@@ -36,14 +37,12 @@ A software application designed to manage library operations, including book rec
 
 Focus: Software Development
 
-
 </td>
 <td width="50%" valign="top">Fishbid - Online Fish Market
 
 An online marketplace designed to connect fish sellers and buyers through a digital platform.
 
 Focus: Full Stack Development
-
 
 </td>
 </tr>
@@ -78,21 +77,27 @@ Technologies: React, Python, FastAPI, PostgreSQL (proposed stack).
 ## 🛠️ Languages & Tools
 
 ### Programming Languages
+
 ![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js)
 
 ### Frontend
+
 ![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,vite)
 
 ### Backend
+
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express)
 
 ### Database
+
 ![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase)
 
 ### DevOps & Cloud
+
 ![My Skills](https://skillicons.dev/icons?i=docker,aws)
 
 ### Tools
+
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)
 
 ---
