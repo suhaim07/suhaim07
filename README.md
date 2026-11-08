@@ -33,7 +33,6 @@ A software application designed to manage library operations, including book rec
 
 Focus: Software Development
 
-Technologies: Add your actual tech stack here.
 
 </td>
 <td width="50%" valign="top">Fishbid - Online Fish Market
@@ -42,7 +41,6 @@ An online marketplace designed to connect fish sellers and buyers through a digi
 
 Focus: Full Stack Development
 
-Technologies: Add your actual tech stack here.
 
 </td>
 </tr>
