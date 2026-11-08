@@ -1,64 +1,61 @@
-Suhaim Abdul Samad
+<div align="center">
 
-<div align="center"><img src="https://raw.githubusercontent.com/suhaim07/suhaim07/main/coding-animation.gif" width="100%" alt="Coding animation"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AIML+Engineering+Student;Aspiring+Full+Stack+Developer;Machine+Learning+Enthusiast;Python+%7C+Java+%7C+C+Developer" alt="Typing SVG"></div>---
+# Suhaim Abdul Samad
 
-About Me
+### Artificial Intelligence and Machine Learning Student
 
-- B.E. Artificial Intelligence and Machine Learning student.
-- Exploring Python, Java, C and C++.
-- Interested in Artificial Intelligence and Machine Learning.
-- Learning Full Stack Development.
-- Building projects and improving programming logic.
-- Interested in automation and software development.
+Exploring software development, AI, and machine learning through hands-on projects.
 
----
+<img src="coding-animation.gif" alt="Animated code editor showing a Python project" width="88%">
 
-Technical Skills
+[About Me](#about-me) · [Tech Stack](#tech-stack) · [Featured Projects](#featured-projects) · [Connect](#connect)
 
-Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-</p>Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Automation
-- Problem Solving
+</div>
 
 ---
 
-Featured Projects
+## About Me
 
-PulseGuard AI
+- B.E. student in Artificial Intelligence and Machine Learning
+- Exploring Python, Java, C, and C++
+- Learning full stack development and automation
+- Interested in practical applications of AI and machine learning
+- Building projects while strengthening software fundamentals
 
-An AI-based project currently under development.
+## Tech Stack
 
-"View Repository" (https://github.com/suhaim07)
+**Programming Languages**  
+Python · Java · C · C++
+
+**Tools**  
+Git · GitHub · Visual Studio Code · Linux
+
+**Areas of Interest**  
+Artificial Intelligence · Machine Learning · Full Stack Development · Automation
+
+## Featured Projects
+
+| Project | Overview | Status |
+| --- | --- | --- |
+| PulseGuard AI | An AI-based project exploring practical machine learning applications. | In development |
+
+[Explore all repositories](https://github.com/suhaim07?tab=repositories)
+
+## Currently Learning
+
+- Machine learning fundamentals
+- Full stack development
+- Programming logic and problem solving
+- Building useful applications with AI
+
+## Connect
+
+[Email](mailto:suhaimkhalifa07@gmail.com) · [GitHub](https://github.com/suhaim07)
 
 ---
 
-GitHub Statistics
+<div align="center">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=suhaim07&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaim07&layout=compact&theme=tokyonight&hide_border=true" width="48%" /><img src="https://streak-stats.demolab.com?user=suhaim07&theme=tokyonight&hide_border=true" width="70%" /></div>---
-
-Current Learning Goals
-
-- Strengthening Python logic and problem-solving.
-- Learning Machine Learning fundamentals.
-- Improving Java and C++ programming.
-- Building real-world projects.
-- Exploring AI-powered applications.
-
----
-
-<div align="center">Code. Learn. Build. Repeat.
-
-Thanks for visiting my GitHub profile.
+*Code. Learn. Build. Repeat.*
 
 </div>
