@@ -1,4 +1,4 @@
-Hey 👋, I'm Suhaim Abdul Samad
+Hey , I'm Suhaim Abdul Samad
 
 AIML Engineering Student | Aspiring Full stack developer | Machine Learning Enthusiast 
 
